@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Poojitha 👋  
 
-<!--
-**Poojitha1984/Poojitha1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me  
+🎓 Aspiring Software Developer  
+💻 Interested in Java, Frontend Development, and SQL 
+🌱 Currently improving my skills by building projects and solving coding challenges  
+🚀 Passionate about creating user-friendly applications and learning new technologies  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
+Languages: Java, SQL, HTML, CSS, JavaScript  
+Databases: MySQL  
+Tools: VS Code, Eclipse  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects  
+📝 [Student Management System](#) – Java + SQL project for managing student records  
+🌐 [Portfolio Website](#) – Frontend project using HTML, CSS, and JavaScript  
+📊 [Library Management System](#) – Java + MySQL project  
+
+## 📫 Connect With Me  
+💼 LinkedIn: https://www.linkedin.com/in/s-poojitha  
+📧 Email: poojithasinu2002@gmail.com 
